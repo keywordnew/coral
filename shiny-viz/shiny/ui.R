@@ -1,10 +1,3 @@
-
-# This is the user-interface definition of a Shiny web application.
-# You can find out more about building applications with Shiny here:
-#
-# http://shiny.rstudio.com
-#
-
 library(shinycssloaders)
 library(shinythemes)
 
@@ -14,7 +7,6 @@ shinyUI(fluidPage(theme = shinytheme("flatly"),
   headerPanel("Sexual Health Clinics in Vancouver"),
 
   # Sidebar with a slider input for number of bins
-  sidebarLayout(
     sidebarPanel(
       checkboxGroupInput("provider", 
                          "Clinic provider:",
@@ -57,6 +49,5 @@ shinyUI(fluidPage(theme = shinytheme("flatly"),
       leafletOutput("map"),
       tableOutput("dataTable")
     )
-  )
 ))
 

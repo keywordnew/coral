@@ -15,7 +15,6 @@ shinyServer(function(input, output) {
   clinics_filtered <- reactive({
     clinics %>% 
       filter(provider %in% input$provider) %>% 
-      filter(sexual_orientation %in% input$sexualOrientation) %>% 
       filter(year %in% input$year)
   })
   
@@ -31,24 +30,6 @@ shinyServer(function(input, output) {
                    selected =  c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"), 
                    multiple = TRUE,
                    options = list(placeholder = "Select feedback tags to show"))
-  })
-  
-  output$userInfo <- renderPlotly({
-    xaxis <- list(
-      autotick = FALSE,
-      ticks = "outside",
-      tick0 = 0,
-      dtick = 1,
-      tickcolor = toRGB("#262626"),
-      title = "clinic"
-    )
-    
-    yaxis <- list(
-      title = 'frequency'
-    )
-    
-    plot_ly(clinics_filtered(), x = ~clinic_name, y = ~n, type="bar") %>% 
-      layout(xaxis = xaxis, yaxis = yaxis, legend = list(orientation = 'h', x = 0.1, y = -0.3))
   })
   
   output$ggplot <- renderPlot({
@@ -90,8 +71,7 @@ shinyServer(function(input, output) {
   output$dataTable <- renderTable(
     {
       clinicTable()
-    },
-    include.rownames = FALSE
+    }
   )
 
 })

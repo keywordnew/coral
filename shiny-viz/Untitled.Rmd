@@ -28,7 +28,7 @@ provider <- c("Opt", "Opt", "Opt", "BCCDC", "BCCDC", "BCCDC", "BCCDC", "BCCDC", 
 funding <- round(runif(9, 1,3),3)
 #services_included
 clinics <- data.frame(clinic_name, lat, long, provider, funding)
-clinic
+clinics
 #write.csv(clinics, "clinics.csv")
 ```
 
@@ -36,36 +36,10 @@ clinic
 # user
 ```{r}
 
-clinics <- read_csv("shiny/clinics.csv")
-
 patient_side_data <- read_csv("shiny/patient_clinic_join.csv")
 
-x <- patient_side_data %>% 
-  group_by(clinic_name) %>% 
-  summarise(mean_age = round(quantile(age, 0.3), 0.1))
+patient_side_data$X1 <- NULL
+patient_side_data$X1_1 <- NULL
 
-
-df3<-patient_side_data %>% 
-  group_by(clinic_name) %>% 
-  summarise(msp_required = mean(msp_required))
-
-patient_side_data %>% 
-  group_by(clinic_name) %>% 
-  filter(gender == "male") %>% 
-  summarise(n = n()) %>% 
-  mutate(pct_male = n / sum(n))
-
-y<-patient_side_data %>% 
-  group_by(clinic_name) %>% 
-  filter(gender == "female") %>% 
-  summarise(n = n()) %>% 
-  mutate(pct_female = n / sum(n))
-
-new_df <- full_join(clinics, x)
-
-new_df2<- full_join(new_df, df3)
-
-new_df3 <- full_join(new_df2, y)
-write.csv(new_df3, "shiny/clinics2.csv")
-new_df3
+write_csv(patient_side_data, "shiny/patient_clinic_join.csv")
 ```
