@@ -31,7 +31,15 @@ shinyUI(fluidPage(
                          "Gender:", 
                          choices = list("Male" = 1, 
                                         "Female" = 2, 
-                                        "Unspecified" = 3)),
+                                        "Unspecified" = 3),
+                         selected = list(1,2,3)),
+      checkboxGroupInput("sexualOrientation", 
+                         "Sexual Orientation:", 
+                         choices = list("Heterosexual" = 1, 
+                                        "Homosexual" = 2, 
+                                        "Bisexual" = 3,
+                                        "Other" = 4),
+                         selected = list(1,2,3,4)),
       checkboxGroupInput("service_type", 
                          "Service type", 
                          choices = unique(clinics$service_type),
@@ -40,13 +48,19 @@ shinyUI(fluidPage(
                          "Provider",
                          choices = list("BC-CDC"=1, "Opt Sexual Health"=2),
                          selected = unique(clinics$provider))
-      
-
     ),
   
     mainPanel(
       uiOutput("variablesUi"),
-      leafletOutput("map")
+      plotlyOutput("userInfo"),
+      hr(),
+      radioButtons("mapInput", 
+                   "Map clinics by:",
+                   choices = list("Average age" = 1, "% MSP" = 2,
+                                  "% females" = 3),
+                   selected = 1),
+      leafletOutput("map"),
+      tableOutput("dataTable")
     )
   )
 ))
