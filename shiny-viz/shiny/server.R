@@ -9,8 +9,6 @@ library(dplyr)
 library(ggplot2)
 library(leaflet)
 
-clinics <- read_csv('clinics.csv')
-
 
 shinyServer(function(input, output) {
 
@@ -20,12 +18,13 @@ shinyServer(function(input, output) {
   })
   
   output$variablesUi <- renderUI({
-    selectizeInput("variablesSelect", "Variables to show:",
-                   c("clean", "longwaittimes", "unjudgemental", "uncomfortable"),
-                   selected =  c("clean", "longwaittimes", "unjudgemental", "uncomfortable"), 
+    selectizeInput("variablesSelect", "Feedback tags:",
+                   c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"),
+                   selected =  c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"), 
                    multiple = TRUE,
-                   options = list(placeholder = "Select variables to show"))
+                   options = list(placeholder = "Select feedback tags to show"))
   })
+  
   
   output$map <- renderLeaflet({
     leaflet(data = clinics_filtered()) %>% 

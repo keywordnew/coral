@@ -17,39 +17,35 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       sliderInput("year",
-                  "Year:",
+                  "Year of visit:",
                   min = 2013,
                   max = 2017,
                   sep = "",
-                  value = range(2013,2014)),
+                  value = c(2013,2017)),
       sliderInput("age",
                   "Age:",
-                  min = 14,
-                  max = 70,
-                  value = range(30,42)),
-      uiOutput("variablesUi"),
+                  min = min(clinics$age),
+                  max = max(clinics$age),
+                  value = range(clinics$age)),
       checkboxGroupInput("gender", 
-                         "Gender", 
+                         "Gender:", 
                          choices = list("Male" = 1, 
                                         "Female" = 2, 
                                         "Unspecified" = 3)),
       checkboxGroupInput("service_type", 
                          "Service type", 
-                         choices = list("STI testing" = 1, 
-                                        "Pregnancy testing" = 2, 
-                                        "Counselling" = 3,
-                                        "Birth control services" = 4,
-                                        "Abortion services" = 5, 
-                                        "Emergency contraceptive" = 6)),
+                         choices = unique(clinics$service_type),
+                         selected = unique(clinics$service_type)),
       checkboxGroupInput("provider", 
-                         h3("Provider"),
-                         choices = list("BC-CDC" = 1, "Opt" = 2),
-                         selected = list("BC-CDC" = 1, "Opt" = 2))
+                         "Provider",
+                         choices = list("BC-CDC"=1, "Opt Sexual Health"=2),
+                         selected = unique(clinics$provider))
       
 
     ),
   
     mainPanel(
+      uiOutput("variablesUi"),
       leafletOutput("map")
     )
   )

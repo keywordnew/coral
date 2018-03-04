@@ -1,0 +1,262 @@
+"","X1","clinic_id","clinic_name","clinic_location","clinic_open","clinic_close","msp_required","year","age","gender","sexual_orientaton","service_type","user_feedback_tags1","user_feedback_tags2","user_feedback_tags3","user_feedback_tags4","user_feedback_tags5","funding","provider","lat","long"
+"1",3,3,"Bloom Community Midwives","VAN",9,4,0,2013,55,"male",5,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"2",4,4,"Alina Wydra","VAN",9,5,1,2015,31,"unspecified",6,"emergency contraceptive","clean","uncomfortable","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"3",5,5,"Kootenay Loop Opt Clinic","VAN",9,5,0,2015,52,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"4",7,7,"Bloom Community Midwives","VAN",9,5,1,2015,51,"unspecified",2,"emergency contraceptive","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"5",8,8,"Alina Wydra","VAN",9,4,0,2013,58,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"6",9,9,"Bloom Community Midwives","VAN",10,4,0,2013,65,"female",3,"birth control services","messy","uncomfortable","safe","fast","professional",1.474,1,49.279902,-123.129868
+"7",10,10,"Bloom Community Midwives","VAN",9,4,1,2014,44,"unspecified",5,"abortion","messy","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"8",11,1,"Vancouver Opt Clinic","VAN",9,4,0,2017,23,"female",1,"pregnancy_testing","messy","nonjudgemental","safe","longwaittimes","empathy",2.601,2,49.243346,-123.124504
+"9",12,2,"Bloom Community Midwives","VAN",9,4,1,2014,29,"unspecified",2,"abortion","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"10",13,3,"Aquarius Medical Clinic","VAN",10,4,1,2015,21,"unspecified",3,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"11",14,4,"Bloom Community Midwives","VAN",9,4,0,2016,27,"male",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"12",16,6,"Kootenay Loop Opt Clinic","VAN",9,5,1,2013,49,"male",2,"sti_testing","clean","uncomfortable","safe","fast","professional",1.664,2,49.280976,-123.026984
+"13",20,10,"Vancouver Opt Clinic","VAN",9,4,0,2013,32,"male",2,"sti_testing","clean","uncomfortable","safe","fast","professional",2.601,2,49.243346,-123.124504
+"14",21,1,"Alina Wydra","VAN",9,4,1,2017,57,"male",2,"sti_testing","clean","uncomfortable","safe","fast","professional",2.463,1,49.263736,-123.118004
+"15",22,2,"Aquarius Medical Clinic","VAN",9,5,1,2015,50,"unspecified",3,"sti_testing","messy","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"16",23,3,"Aquarius Medical Clinic","VAN",9,5,0,2017,58,"male",2,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"17",24,4,"South Hill Opt Clinic","VAN",9,4,0,2013,24,"male",6,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",2.661,2,49.25246,-123.080263
+"18",25,5,"Aquarius Medical Clinic","VAN",9,5,1,2013,36,"unspecified",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"19",26,6,"Aquarius Medical Clinic","VAN",9,4,0,2014,68,"unspecified",6,"sti_testing","clean","nonjudgemental","friendly","fast","professional",1.133,1,49.273822,-123.120589
+"20",27,7,"Bloom Community Midwives","VAN",10,5,0,2016,35,"female",6,"emergency contraceptive","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"21",28,8,"Bloom Community Midwives","VAN",9,4,1,2015,18,"female",7,"birth control services","messy","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"22",31,1,"Vancouver Opt Clinic","VAN",10,4,1,2015,62,"unspecified",2,"emergency contraceptive","messy","nonjudgemental","friendly","fast","professional",2.601,2,49.243346,-123.124504
+"23",32,2,"Kootenay Loop Opt Clinic","VAN",9,4,0,2015,45,"male",4,"sti_testing","messy","uncomfortable","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"24",33,3,"Aquarius Medical Clinic","VAN",9,4,1,2015,51,"male",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"25",36,6,"Bloom Community Midwives","VAN",9,4,0,2016,19,"male",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"26",42,2,"Bloom Community Midwives","VAN",9,5,1,2013,22,"male",4,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"27",43,3,"Bloom Community Midwives","VAN",9,4,1,2015,55,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"28",44,4,"Bloom Community Midwives","VAN",9,4,0,2016,57,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"29",48,8,"Bloom Community Midwives","VAN",10,4,0,2013,68,"unspecified",7,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"30",50,10,"Alina Wydra","VAN",9,3,1,2015,25,"unspecified",7,"emergency contraceptive","clean","uncomfortable","safe","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"31",52,2,"Bloom Community Midwives","VAN",9,5,1,2013,22,"male",6,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"32",55,5,"Bloom Community Midwives","VAN",9,4,1,2017,61,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"33",59,9,"Kootenay Loop Opt Clinic","VAN",9,4,0,2016,40,"unspecified",6,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"34",60,10,"Bloom Community Midwives","VAN",9,5,1,2016,27,"female",6,"birth control services","clean","nonjudgemental","safe","fast","professional",1.474,1,49.279902,-123.129868
+"35",61,1,"Aquarius Medical Clinic","VAN",9,5,1,2013,31,"female",3,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"36",63,3,"Bloom Community Midwives","VAN",9,4,1,2016,39,"unspecified",6,"counselling","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"37",66,6,"Bloom Community Midwives","VAN",9,5,0,2013,61,"unspecified",1,"sti_testing","messy","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"38",70,10,"Bloom Community Midwives","VAN",10,5,1,2017,60,"male",7,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"39",72,2,"Aquarius Medical Clinic","VAN",10,5,0,2017,44,"unspecified",3,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"40",73,3,"Aquarius Medical Clinic","VAN",9,5,1,2016,36,"male",3,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"41",75,5,"Bloom Community Midwives","VAN",8,5,0,2016,20,"male",5,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"42",77,7,"Bloom Community Midwives","VAN",9,4,0,2015,15,"unspecified",2,"emergency contraceptive","messy","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"43",78,8,"Aquarius Medical Clinic","VAN",9,4,0,2014,18,"unspecified",2,"emergency contraceptive","clean","uncomfortable","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"44",82,2,"Aquarius Medical Clinic","VAN",9,4,1,2016,19,"male",6,"sti_testing","clean","uncomfortable","safe","fast","professional",1.133,1,49.273822,-123.120589
+"45",83,3,"Bloom Community Midwives","VAN",10,4,0,2016,68,"unspecified",2,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"46",86,6,"Bloom Community Midwives","VAN",9,4,0,2016,46,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"47",87,7,"Bayswater Medical Clinic","VAN",9,4,0,2014,67,"female",2,"counselling","clean","nonjudgemental","safe","fast","empathy",1.478,1,49.264481,-123.171416
+"48",88,8,"Kootenay Loop Opt Clinic","VAN",9,4,1,2017,60,"male",3,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"49",89,9,"Alina Wydra","VAN",8,5,0,2016,44,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"50",92,2,"Aquarius Medical Clinic","VAN",9,4,1,2014,59,"unspecified",3,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"51",94,4,"Aquarius Medical Clinic","VAN",9,4,1,2013,19,"male",6,"sti_testing","messy","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"52",99,9,"Bloom Community Midwives","VAN",10,4,1,2015,60,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"53",100,10,"Bloom Community Midwives","VAN",9,4,1,2013,30,"male",6,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"54",101,1,"Aquarius Medical Clinic","VAN",9,5,0,2016,26,"male",2,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"55",103,3,"Bloom Community Midwives","VAN",9,4,1,2015,35,"male",2,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"56",104,4,"Vancouver Opt Clinic","VAN",9,5,1,2017,64,"unspecified",6,"abortion","clean","nonjudgemental","safe","longwaittimes","empathy",2.601,2,49.243346,-123.124504
+"57",105,5,"Bloom Community Midwives","VAN",9,5,1,2016,21,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"58",106,6,"Alina Wydra","VAN",9,4,1,2016,23,"male",5,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"59",107,7,"Kootenay Loop Opt Clinic","VAN",9,5,1,2013,50,"unspecified",4,"abortion","clean","nonjudgemental","friendly","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"60",108,8,"Aquarius Medical Clinic","VAN",9,3,0,2014,24,"male",3,"sti_testing","messy","uncomfortable","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"61",109,9,"Bloom Community Midwives","VAN",9,3,1,2017,51,"unspecified",1,"birth control services","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"62",111,1,"Kootenay Loop Opt Clinic","VAN",9,4,0,2016,56,"male",3,"sti_testing","messy","nonjudgemental","safe","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"63",114,4,"Kootenay Loop Opt Clinic","VAN",8,4,1,2015,36,"unspecified",2,"birth control services","messy","nonjudgemental","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"64",117,7,"Bloom Community Midwives","VAN",10,4,0,2016,23,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"65",118,8,"Vancouver Opt Clinic","VAN",9,3,1,2013,47,"female",3,"birth control services","clean","uncomfortable","friendly","longwaittimes","empathy",2.601,2,49.243346,-123.124504
+"66",119,9,"Bloom Community Midwives","VAN",8,4,0,2016,42,"unspecified",2,"birth control services","clean","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"67",120,10,"Bloom Community Midwives","VAN",9,5,0,2017,67,"male",7,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"68",121,1,"Aquarius Medical Clinic","VAN",10,4,1,2017,65,"male",3,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"69",125,5,"Bloom Community Midwives","VAN",9,4,0,2017,57,"male",3,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"70",126,6,"Bayswater Medical Clinic","VAN",9,4,1,2013,43,"female",1,"abortion","clean","nonjudgemental","friendly","fast","professional",1.478,1,49.264481,-123.171416
+"71",130,10,"Aquarius Medical Clinic","VAN",9,5,1,2017,16,"female",6,"pregnancy_testing","messy","uncomfortable","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"72",131,1,"Aquarius Medical Clinic","VAN",9,4,0,2013,52,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"73",132,2,"Alina Wydra","VAN",10,5,0,2014,56,"unspecified",6,"birth control services","clean","nonjudgemental","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"74",133,3,"Aquarius Medical Clinic","VAN",9,5,1,2013,28,"unspecified",6,"counselling","messy","nonjudgemental","safe","fast","professional",1.133,1,49.273822,-123.120589
+"75",135,5,"Bloom Community Midwives","VAN",9,5,1,2016,16,"unspecified",4,"sti_testing","messy","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"76",136,6,"Aquarius Medical Clinic","VAN",9,5,1,2015,19,"male",6,"sti_testing","messy","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"77",139,9,"Bayswater Medical Clinic","VAN",9,4,1,2017,50,"male",3,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",1.478,1,49.264481,-123.171416
+"78",140,10,"Bloom Community Midwives","VAN",9,4,0,2015,40,"unspecified",3,"emergency contraceptive","messy","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"79",142,2,"Bloom Community Midwives","VAN",9,4,1,2013,67,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"80",145,5,"Alina Wydra","VAN",9,4,1,2013,69,"male",6,"sti_testing","messy","nonjudgemental","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"81",151,1,"Alina Wydra","VAN",9,3,1,2014,59,"unspecified",5,"pregnancy_testing","clean","uncomfortable","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"82",152,2,"Bloom Community Midwives","VAN",10,5,0,2017,64,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"83",153,3,"Bloom Community Midwives","VAN",9,5,0,2016,64,"unspecified",2,"emergency contraceptive","messy","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"84",156,6,"Bloom Community Midwives","VAN",10,4,0,2014,48,"male",3,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"85",157,7,"Bloom Community Midwives","VAN",10,4,1,2015,34,"male",6,"sti_testing","messy","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"86",159,9,"Bloom Community Midwives","VAN",9,4,0,2014,16,"male",4,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"87",161,1,"Bloom Community Midwives","VAN",10,4,1,2017,27,"male",6,"sti_testing","messy","uncomfortable","safe","fast","empathy",1.474,1,49.279902,-123.129868
+"88",163,3,"Aquarius Medical Clinic","VAN",9,4,1,2016,55,"unspecified",6,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"89",164,4,"Bloom Community Midwives","VAN",9,4,0,2016,24,"male",1,"sti_testing","clean","nonjudgemental","safe","fast","empathy",1.474,1,49.279902,-123.129868
+"90",166,6,"Bloom Community Midwives","VAN",9,4,1,2017,53,"unspecified",6,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"91",169,9,"Bloom Community Midwives","VAN",9,4,1,2016,39,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"92",171,1,"Aquarius Medical Clinic","VAN",9,4,0,2013,15,"unspecified",5,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"93",173,3,"Alina Wydra","VAN",9,5,0,2013,59,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"94",175,5,"Aquarius Medical Clinic","VAN",9,4,1,2017,18,"male",4,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"95",176,6,"Aquarius Medical Clinic","VAN",9,4,0,2013,15,"male",3,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"96",177,7,"Bloom Community Midwives","VAN",9,5,0,2014,37,"female",4,"pregnancy_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"97",178,8,"Bloom Community Midwives","VAN",9,4,1,2017,62,"male",3,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"98",179,9,"Alina Wydra","VAN",9,4,0,2013,32,"unspecified",2,"pregnancy_testing","clean","uncomfortable","friendly","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"99",180,10,"Bloom Community Midwives","VAN",9,5,0,2016,39,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","safe","fast","professional",1.474,1,49.279902,-123.129868
+"100",181,1,"Alina Wydra","VAN",9,4,1,2017,37,"male",3,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"101",183,3,"Aquarius Medical Clinic","VAN",9,5,1,2013,66,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"102",185,5,"Bloom Community Midwives","VAN",8,5,0,2016,29,"male",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"103",186,6,"Bloom Community Midwives","VAN",9,4,0,2013,55,"unspecified",2,"counselling","messy","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"104",188,8,"Bloom Community Midwives","VAN",9,5,0,2016,67,"male",1,"sti_testing","messy","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"105",189,9,"Kootenay Loop Opt Clinic","VAN",9,5,1,2014,17,"unspecified",5,"counselling","clean","uncomfortable","friendly","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"106",190,10,"Kootenay Loop Opt Clinic","VAN",9,5,0,2016,70,"unspecified",6,"sti_testing","clean","uncomfortable","friendly","fast","professional",1.664,2,49.280976,-123.026984
+"107",193,3,"Bayswater Medical Clinic","VAN",9,4,1,2016,20,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.478,1,49.264481,-123.171416
+"108",194,4,"Aquarius Medical Clinic","VAN",9,5,1,2017,47,"female",2,"emergency contraceptive","clean","uncomfortable","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"109",195,5,"Kootenay Loop Opt Clinic","VAN",9,4,1,2017,51,"female",2,"birth control services","clean","nonjudgemental","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"110",196,6,"Bloom Community Midwives","VAN",9,4,1,2016,70,"unspecified",2,"pregnancy_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"111",197,7,"Bloom Community Midwives","VAN",9,5,1,2016,25,"male",3,"sti_testing","clean","nonjudgemental","safe","fast","empathy",1.474,1,49.279902,-123.129868
+"112",198,8,"Aquarius Medical Clinic","VAN",9,4,0,2015,60,"male",7,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"113",200,10,"Bloom Community Midwives","VAN",9,4,0,2013,70,"male",2,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"114",202,2,"Vancouver Opt Clinic","VAN",9,5,1,2016,55,"male",2,"sti_testing","messy","nonjudgemental","safe","longwaittimes","empathy",2.601,2,49.243346,-123.124504
+"115",203,3,"Aquarius Medical Clinic","VAN",9,4,0,2016,18,"unspecified",1,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"116",204,4,"Bloom Community Midwives","VAN",10,5,1,2013,49,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"117",205,5,"Bloom Community Midwives","VAN",9,4,1,2013,26,"male",1,"sti_testing","clean","nonjudgemental","safe","fast","empathy",1.474,1,49.279902,-123.129868
+"118",206,6,"Alina Wydra","VAN",9,3,0,2015,66,"male",3,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"119",207,7,"Bloom Community Midwives","VAN",9,4,0,2013,60,"male",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"120",211,1,"Bloom Community Midwives","VAN",9,4,1,2014,69,"male",6,"sti_testing","messy","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"121",214,4,"Aquarius Medical Clinic","VAN",9,4,1,2013,33,"unspecified",3,"birth control services","clean","uncomfortable","friendly","fast","empathy",1.133,1,49.273822,-123.120589
+"122",216,6,"Aquarius Medical Clinic","VAN",9,5,1,2013,65,"male",2,"sti_testing","clean","nonjudgemental","friendly","fast","empathy",1.133,1,49.273822,-123.120589
+"123",218,8,"Bloom Community Midwives","VAN",9,5,0,2016,30,"male",1,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"124",220,10,"Kootenay Loop Opt Clinic","VAN",9,3,1,2014,46,"male",6,"sti_testing","messy","uncomfortable","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"125",222,2,"Vancouver Opt Clinic","VAN",9,4,0,2016,19,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",2.601,2,49.243346,-123.124504
+"126",224,4,"Aquarius Medical Clinic","VAN",10,5,0,2013,66,"unspecified",4,"pregnancy_testing","clean","uncomfortable","safe","fast","empathy",1.133,1,49.273822,-123.120589
+"127",226,6,"Bloom Community Midwives","VAN",9,4,1,2013,65,"unspecified",6,"counselling","messy","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"128",227,7,"Bloom Community Midwives","VAN",10,4,0,2013,58,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"129",228,8,"Bloom Community Midwives","VAN",9,4,0,2014,23,"unspecified",2,"counselling","clean","uncomfortable","safe","fast","empathy",1.474,1,49.279902,-123.129868
+"130",229,9,"Aquarius Medical Clinic","VAN",9,5,1,2017,20,"male",6,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"131",230,10,"Kootenay Loop Opt Clinic","VAN",9,4,0,2013,20,"male",2,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"132",231,1,"Aquarius Medical Clinic","VAN",9,4,1,2016,38,"male",5,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"133",232,2,"Bloom Community Midwives","VAN",10,4,1,2017,58,"male",3,"sti_testing","messy","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"134",233,3,"Bloom Community Midwives","VAN",9,4,0,2015,65,"male",2,"sti_testing","messy","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"135",236,6,"Bloom Community Midwives","VAN",9,4,0,2015,40,"male",1,"sti_testing","clean","nonjudgemental","friendly","fast","empathy",1.474,1,49.279902,-123.129868
+"136",241,1,"Bloom Community Midwives","VAN",8,4,1,2014,31,"male",4,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"137",242,2,"Aquarius Medical Clinic","VAN",9,4,1,2016,24,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"138",244,4,"Aquarius Medical Clinic","VAN",9,4,1,2017,14,"female",2,"pregnancy_testing","messy","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"139",247,7,"Bloom Community Midwives","VAN",9,5,1,2015,18,"female",2,"emergency contraceptive","messy","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"140",248,8,"AIDS Vancouver","VAN",9,4,0,2016,19,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",2.616,1,49.277212,-123.1239
+"141",249,9,"AIDS Vancouver","VAN",9,4,1,2014,23,"male",3,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",2.616,1,49.277212,-123.1239
+"142",253,3,"Bloom Community Midwives","VAN",9,5,1,2015,19,"unspecified",1,"pregnancy_testing","messy","uncomfortable","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"143",255,5,"Bloom Community Midwives","VAN",9,4,1,2014,30,"female",2,"counselling","messy","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"144",258,8,"Bloom Community Midwives","VAN",10,4,0,2014,66,"female",2,"birth control services","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"145",259,9,"Bloom Community Midwives","VAN",9,3,1,2013,55,"unspecified",7,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"146",260,10,"Alina Wydra","VAN",9,5,1,2017,40,"male",2,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"147",261,1,"Kootenay Loop Opt Clinic","VAN",9,4,0,2016,52,"male",6,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"148",262,2,"Alina Wydra","VAN",9,5,1,2017,30,"male",1,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"149",263,3,"Aquarius Medical Clinic","VAN",9,4,0,2015,51,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"150",264,4,"Kootenay Loop Opt Clinic","VAN",9,4,0,2013,35,"unspecified",1,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"151",265,5,"Bloom Community Midwives","VAN",9,5,1,2016,52,"male",7,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"152",266,6,"Bloom Community Midwives","VAN",9,4,1,2013,37,"female",5,"emergency contraceptive","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"153",270,10,"Bloom Community Midwives","VAN",9,3,1,2014,46,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"154",271,1,"Alina Wydra","VAN",10,4,1,2014,15,"male",5,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"155",277,7,"AIDS Vancouver","VAN",9,5,1,2017,57,"male",4,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",2.616,1,49.277212,-123.1239
+"156",278,8,"Bloom Community Midwives","VAN",9,5,0,2015,17,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"157",280,10,"Aquarius Medical Clinic","VAN",9,4,1,2013,31,"male",3,"sti_testing","messy","nonjudgemental","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"158",283,3,"Bloom Community Midwives","VAN",9,5,1,2014,22,"male",4,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"159",286,6,"Bloom Community Midwives","VAN",9,4,1,2013,47,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"160",290,10,"Aquarius Medical Clinic","VAN",10,4,1,2015,65,"male",3,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"161",294,4,"Alina Wydra","VAN",9,5,1,2015,40,"male",4,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"162",297,7,"Bayswater Medical Clinic","VAN",9,5,0,2014,46,"unspecified",6,"pregnancy_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.478,1,49.264481,-123.171416
+"163",305,5,"Aquarius Medical Clinic","VAN",9,5,0,2016,57,"female",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"164",306,6,"Bloom Community Midwives","VAN",8,4,0,2013,48,"male",5,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"165",309,9,"Bloom Community Midwives","VAN",9,5,1,2017,47,"male",6,"sti_testing","messy","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"166",310,10,"Bloom Community Midwives","VAN",9,4,1,2014,67,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"167",311,1,"Bloom Community Midwives","VAN",9,4,0,2015,65,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"168",312,2,"Bloom Community Midwives","VAN",9,4,0,2013,36,"unspecified",3,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"169",313,3,"Aquarius Medical Clinic","VAN",9,5,1,2014,54,"male",3,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"170",317,7,"Alina Wydra","VAN",9,5,0,2013,16,"unspecified",2,"counselling","clean","uncomfortable","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"171",320,10,"Alina Wydra","VAN",9,4,0,2015,54,"unspecified",6,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"172",321,1,"Alina Wydra","VAN",9,5,1,2016,43,"unspecified",1,"counselling","clean","uncomfortable","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"173",324,4,"Aquarius Medical Clinic","VAN",8,4,1,2016,64,"male",3,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"174",327,7,"South Hill Opt Clinic","VAN",9,4,0,2015,59,"male",6,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",2.661,2,49.25246,-123.080263
+"175",330,10,"Kootenay Loop Opt Clinic","VAN",9,5,1,2015,35,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"176",331,1,"Aquarius Medical Clinic","VAN",9,4,1,2013,48,"male",4,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"177",334,4,"Alina Wydra","VAN",9,5,1,2016,60,"unspecified",6,"birth control services","clean","uncomfortable","safe","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"178",336,6,"Bloom Community Midwives","VAN",9,4,0,2013,35,"male",1,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"179",337,7,"Aquarius Medical Clinic","VAN",9,5,1,2013,60,"unspecified",6,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"180",338,8,"Aquarius Medical Clinic","VAN",9,5,0,2017,43,"unspecified",2,"counselling","messy","nonjudgemental","safe","fast","professional",1.133,1,49.273822,-123.120589
+"181",339,9,"Aquarius Medical Clinic","VAN",9,5,1,2017,56,"female",7,"birth control services","clean","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"182",340,10,"Bayswater Medical Clinic","VAN",9,4,1,2017,62,"unspecified",6,"pregnancy_testing","messy","nonjudgemental","safe","longwaittimes","professional",1.478,1,49.264481,-123.171416
+"183",341,1,"Bloom Community Midwives","VAN",8,4,0,2016,39,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"184",343,3,"Bloom Community Midwives","VAN",9,4,1,2017,62,"unspecified",4,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"185",345,5,"Bloom Community Midwives","VAN",9,5,0,2013,49,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"186",346,6,"Bloom Community Midwives","VAN",9,3,1,2013,53,"unspecified",3,"birth control services","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"187",347,7,"Bayswater Medical Clinic","VAN",10,4,0,2015,56,"male",6,"sti_testing","clean","nonjudgemental","friendly","fast","empathy",1.478,1,49.264481,-123.171416
+"188",348,8,"Bloom Community Midwives","VAN",9,5,0,2014,28,"unspecified",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"189",350,10,"Aquarius Medical Clinic","VAN",9,5,0,2015,25,"male",4,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"190",352,2,"AIDS Vancouver","VAN",9,4,1,2017,29,"male",2,"sti_testing","messy","nonjudgemental","safe","longwaittimes","professional",2.616,1,49.277212,-123.1239
+"191",353,3,"Bloom Community Midwives","VAN",8,4,0,2014,42,"unspecified",3,"counselling","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"192",355,5,"Aquarius Medical Clinic","VAN",9,4,1,2015,59,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"193",356,6,"Bayswater Medical Clinic","VAN",9,4,0,2013,37,"unspecified",2,"counselling","clean","uncomfortable","safe","longwaittimes","professional",1.478,1,49.264481,-123.171416
+"194",357,7,"Aquarius Medical Clinic","VAN",8,4,1,2013,40,"male",7,"sti_testing","clean","uncomfortable","safe","fast","professional",1.133,1,49.273822,-123.120589
+"195",358,8,"Bloom Community Midwives","VAN",9,5,1,2014,67,"unspecified",2,"counselling","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"196",360,10,"Alina Wydra","VAN",10,4,1,2015,56,"male",7,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"197",363,3,"Kootenay Loop Opt Clinic","VAN",9,5,0,2014,17,"unspecified",4,"pregnancy_testing","messy","nonjudgemental","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"198",365,5,"Bloom Community Midwives","VAN",9,4,0,2015,52,"male",7,"sti_testing","clean","nonjudgemental","safe","fast","professional",1.474,1,49.279902,-123.129868
+"199",369,9,"Bloom Community Midwives","VAN",9,4,0,2016,14,"male",7,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"200",370,10,"Bloom Community Midwives","VAN",9,4,1,2015,35,"unspecified",4,"emergency contraceptive","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"201",371,1,"Bloom Community Midwives","VAN",9,4,0,2017,50,"unspecified",2,"pregnancy_testing","messy","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"202",373,3,"Alina Wydra","VAN",9,4,1,2014,14,"male",2,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"203",374,4,"Bloom Community Midwives","VAN",9,5,0,2015,22,"female",6,"emergency contraceptive","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"204",375,5,"Bloom Community Midwives","VAN",10,5,0,2014,56,"male",4,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"205",376,6,"Vancouver Opt Clinic","VAN",9,5,0,2014,62,"female",2,"emergency contraceptive","clean","uncomfortable","friendly","longwaittimes","professional",2.601,2,49.243346,-123.124504
+"206",380,10,"AIDS Vancouver","VAN",9,5,0,2017,68,"unspecified",5,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",2.616,1,49.277212,-123.1239
+"207",381,1,"Bloom Community Midwives","VAN",9,4,1,2014,42,"unspecified",4,"birth control services","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"208",383,3,"Bloom Community Midwives","VAN",9,5,0,2017,66,"male",2,"sti_testing","messy","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"209",385,5,"Bloom Community Midwives","VAN",9,5,1,2017,28,"male",4,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"210",386,6,"Kootenay Loop Opt Clinic","VAN",10,4,0,2013,66,"male",2,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.664,2,49.280976,-123.026984
+"211",391,1,"Bayswater Medical Clinic","VAN",9,3,1,2015,20,"unspecified",5,"emergency contraceptive","messy","uncomfortable","friendly","longwaittimes","empathy",1.478,1,49.264481,-123.171416
+"212",400,10,"South Hill Opt Clinic","VAN",9,4,1,2017,18,"male",2,"sti_testing","clean","nonjudgemental","safe","longwaittimes","professional",2.661,2,49.25246,-123.080263
+"213",401,1,"Bayswater Medical Clinic","VAN",10,4,0,2016,69,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.478,1,49.264481,-123.171416
+"214",403,3,"Kootenay Loop Opt Clinic","VAN",10,4,1,2014,54,"male",3,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"215",404,4,"Bloom Community Midwives","VAN",9,4,1,2017,30,"male",6,"sti_testing","messy","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"216",405,5,"Bloom Community Midwives","VAN",9,4,0,2017,59,"male",6,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"217",406,6,"Bloom Community Midwives","VAN",9,5,1,2014,49,"male",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"218",407,7,"Aquarius Medical Clinic","VAN",9,4,0,2014,65,"female",6,"emergency contraceptive","clean","nonjudgemental","friendly","fast","empathy",1.133,1,49.273822,-123.120589
+"219",410,10,"Aquarius Medical Clinic","VAN",9,3,0,2015,55,"male",7,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"220",414,4,"Bloom Community Midwives","VAN",9,4,0,2013,31,"female",2,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"221",417,7,"Kootenay Loop Opt Clinic","VAN",9,5,0,2014,58,"unspecified",6,"pregnancy_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"222",419,9,"Bloom Community Midwives","VAN",9,5,1,2016,51,"female",1,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"223",421,1,"Bloom Community Midwives","VAN",9,5,1,2015,24,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"224",422,2,"Aquarius Medical Clinic","VAN",9,5,0,2017,48,"unspecified",6,"sti_testing","clean","uncomfortable","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"225",423,3,"Aquarius Medical Clinic","VAN",9,4,1,2014,57,"female",1,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"226",425,5,"Alina Wydra","VAN",9,4,0,2016,53,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"227",426,6,"Aquarius Medical Clinic","VAN",9,4,0,2015,19,"male",6,"sti_testing","messy","uncomfortable","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"228",428,8,"Bloom Community Midwives","VAN",9,3,0,2017,67,"unspecified",3,"pregnancy_testing","clean","nonjudgemental","friendly","fast","empathy",1.474,1,49.279902,-123.129868
+"229",430,10,"Alina Wydra","VAN",9,4,0,2016,52,"unspecified",5,"counselling","messy","nonjudgemental","safe","longwaittimes","empathy",2.463,1,49.263736,-123.118004
+"230",431,1,"Vancouver Opt Clinic","VAN",10,5,0,2016,37,"male",5,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",2.601,2,49.243346,-123.124504
+"231",432,2,"Bloom Community Midwives","VAN",9,4,0,2014,21,"male",4,"sti_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"232",434,4,"South Hill Opt Clinic","VAN",9,5,0,2016,19,"unspecified",2,"pregnancy_testing","messy","uncomfortable","safe","longwaittimes","professional",2.661,2,49.25246,-123.080263
+"233",436,6,"Aquarius Medical Clinic","VAN",9,4,1,2015,34,"male",5,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"234",438,8,"Bloom Community Midwives","VAN",10,5,1,2016,35,"female",2,"pregnancy_testing","clean","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"235",442,2,"Bloom Community Midwives","VAN",9,5,1,2014,63,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"236",445,5,"Alina Wydra","VAN",9,5,1,2013,23,"male",6,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"237",446,6,"Aquarius Medical Clinic","VAN",9,5,1,2017,67,"male",3,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"238",449,9,"Bloom Community Midwives","VAN",9,4,1,2014,16,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"239",450,10,"Aquarius Medical Clinic","VAN",9,4,0,2015,40,"male",2,"sti_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"240",451,1,"Bloom Community Midwives","VAN",9,5,1,2017,16,"male",5,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"241",456,6,"Alina Wydra","VAN",8,5,0,2017,63,"male",6,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",2.463,1,49.263736,-123.118004
+"242",461,1,"AIDS Vancouver","VAN",9,3,1,2013,65,"female",3,"pregnancy_testing","messy","uncomfortable","safe","longwaittimes","professional",2.616,1,49.277212,-123.1239
+"243",462,2,"Bloom Community Midwives","VAN",9,5,0,2016,24,"unspecified",3,"birth control services","messy","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"244",463,3,"Bloom Community Midwives","VAN",9,5,1,2017,56,"male",4,"sti_testing","clean","uncomfortable","friendly","fast","professional",1.474,1,49.279902,-123.129868
+"245",465,5,"Bloom Community Midwives","VAN",10,4,0,2015,52,"unspecified",2,"emergency contraceptive","clean","uncomfortable","friendly","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"246",468,8,"Aquarius Medical Clinic","VAN",9,4,0,2013,16,"male",2,"sti_testing","clean","nonjudgemental","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"247",473,3,"Bloom Community Midwives","VAN",9,5,0,2014,29,"unspecified",6,"counselling","messy","uncomfortable","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"248",475,5,"Aquarius Medical Clinic","VAN",9,4,1,2014,42,"male",1,"sti_testing","clean","uncomfortable","friendly","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"249",476,6,"Bloom Community Midwives","VAN",9,5,0,2015,39,"unspecified",3,"counselling","messy","uncomfortable","safe","longwaittimes","empathy",1.474,1,49.279902,-123.129868
+"250",477,7,"Aquarius Medical Clinic","VAN",8,4,0,2016,70,"male",6,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"251",480,10,"Aquarius Medical Clinic","VAN",9,5,0,2014,15,"female",6,"pregnancy_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"252",484,4,"Aquarius Medical Clinic","VAN",9,5,1,2014,24,"male",2,"sti_testing","clean","uncomfortable","safe","longwaittimes","professional",1.133,1,49.273822,-123.120589
+"253",485,5,"Kootenay Loop Opt Clinic","VAN",10,3,0,2017,26,"male",3,"sti_testing","clean","nonjudgemental","safe","longwaittimes","empathy",1.664,2,49.280976,-123.026984
+"254",488,8,"Aquarius Medical Clinic","VAN",9,4,0,2016,31,"female",6,"birth control services","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"255",489,9,"Bloom Community Midwives","VAN",9,5,0,2014,21,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"256",490,10,"Alina Wydra","VAN",9,5,1,2016,51,"unspecified",2,"sti_testing","clean","uncomfortable","safe","fast","professional",2.463,1,49.263736,-123.118004
+"257",491,1,"AIDS Vancouver","VAN",9,4,0,2016,47,"male",6,"sti_testing","messy","nonjudgemental","friendly","fast","professional",2.616,1,49.277212,-123.1239
+"258",493,3,"Bloom Community Midwives","VAN",9,3,1,2015,60,"male",3,"sti_testing","messy","nonjudgemental","safe","longwaittimes","professional",1.474,1,49.279902,-123.129868
+"259",494,4,"Aquarius Medical Clinic","VAN",9,5,0,2017,30,"unspecified",1,"pregnancy_testing","clean","uncomfortable","safe","longwaittimes","empathy",1.133,1,49.273822,-123.120589
+"260",496,6,"South Hill Opt Clinic","VAN",9,5,1,2017,21,"unspecified",2,"pregnancy_testing","clean","nonjudgemental","friendly","longwaittimes","professional",2.661,2,49.25246,-123.080263
+"261",499,9,"Aquarius Medical Clinic","VAN",9,5,1,2016,38,"unspecified",6,"pregnancy_testing","messy","nonjudgemental","friendly","longwaittimes","empathy",1.133,1,49.273822,-123.120589

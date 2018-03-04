@@ -35,26 +35,13 @@ clinic
 
 # user
 ```{r}
-clinic_id <- 
-date <- 
-age <- 
+patients <- read_csv("shiny/patient_side_data.csv")
+clinics <- read_csv("shiny/clinics.csv") %>% 
+  select(clinic_name, funding, provider, lat, long)
 
-female <- rep('f', 10)
-male <- rep('m', 10)
-unspecified <- rep('x', 10)
+new_df <- patients %>% 
+  inner_join(clinics)
 
-gender <- c(female, male, unspecified)
-
-
-
-sexual_orientaton
-
-service_type
-user_feedback
-- clean
-- patient
-- uncomfortable
-- nonjudgemental
-- longwaittimes
-
+unique(new_df$year)
+#write.csv(new_df, "patient_clinic_join.csv")
 ```
