@@ -1,0 +1,5 @@
+"0","ggplot(patient_side_data, aes(x=service_type, fill=user_feedback_tags1)) +"
+"0","  geom_bar() +"
+"0","  ggtitle(""Service Type"" ) +"
+"0","  facet_wrap(~user_feedback_tags1) +"
+"0","  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
