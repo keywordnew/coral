@@ -8,14 +8,18 @@
 library(shinycssloaders)
 library(shinythemes)
 
-shinyUI(fluidPage(
+shinyUI(fluidPage(theme = shinytheme("flatly"),
 
   # Application title
-  titlePanel("Sexual Health Clinics in Vancouver"),
+  headerPanel("Sexual Health Clinics in Vancouver"),
 
   # Sidebar with a slider input for number of bins
   sidebarLayout(
     sidebarPanel(
+      checkboxGroupInput("provider", 
+                         "Clinic provider:",
+                         choices = list("BC-CDC"=1, "Opt Sexual Health"=2),
+                         selected = unique(clinics$provider)),
       sliderInput("year",
                   "Year of visit:",
                   min = 2013,
@@ -43,22 +47,13 @@ shinyUI(fluidPage(
       checkboxGroupInput("service_type", 
                          "Service type", 
                          choices = unique(clinics$service_type),
-                         selected = unique(clinics$service_type)),
-      checkboxGroupInput("provider", 
-                         "Provider",
-                         choices = list("BC-CDC"=1, "Opt Sexual Health"=2),
-                         selected = unique(clinics$provider))
+                         selected = unique(clinics$service_type))
     ),
   
     mainPanel(
       uiOutput("variablesUi"),
-      plotlyOutput("userInfo"),
+      plotOutput("ggplot"),
       hr(),
-      radioButtons("mapInput", 
-                   "Map clinics by:",
-                   choices = list("Average age" = 1, "% MSP" = 2,
-                                  "% females" = 3),
-                   selected = 1),
       leafletOutput("map"),
       tableOutput("dataTable")
     )

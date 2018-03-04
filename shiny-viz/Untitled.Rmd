@@ -35,13 +35,37 @@ clinic
 
 # user
 ```{r}
-patients <- read_csv("shiny/patient_side_data.csv")
-clinics <- read_csv("shiny/clinics.csv") %>% 
-  select(clinic_name, funding, provider, lat, long)
 
-new_df <- patients %>% 
-  inner_join(clinics)
+clinics <- read_csv("shiny/clinics.csv")
 
-unique(new_df$year)
-#write.csv(new_df, "patient_clinic_join.csv")
+patient_side_data <- read_csv("shiny/patient_clinic_join.csv")
+
+x <- patient_side_data %>% 
+  group_by(clinic_name) %>% 
+  summarise(mean_age = round(quantile(age, 0.3), 0.1))
+
+
+df3<-patient_side_data %>% 
+  group_by(clinic_name) %>% 
+  summarise(msp_required = mean(msp_required))
+
+patient_side_data %>% 
+  group_by(clinic_name) %>% 
+  filter(gender == "male") %>% 
+  summarise(n = n()) %>% 
+  mutate(pct_male = n / sum(n))
+
+y<-patient_side_data %>% 
+  group_by(clinic_name) %>% 
+  filter(gender == "female") %>% 
+  summarise(n = n()) %>% 
+  mutate(pct_female = n / sum(n))
+
+new_df <- full_join(clinics, x)
+
+new_df2<- full_join(new_df, df3)
+
+new_df3 <- full_join(new_df2, y)
+write.csv(new_df3, "shiny/clinics2.csv")
+new_df3
 ```

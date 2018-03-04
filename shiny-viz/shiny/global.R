@@ -4,3 +4,4 @@ library(plotly)
 library(readr)
 
 clinics <- read_csv('patient_clinic_join.csv')
+clinic_info <- read_csv('clinics2.csv')
