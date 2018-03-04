@@ -1,16 +1,15 @@
 library(shinycssloaders)
 library(shinythemes)
 
-shinyUI(fluidPage(theme = shinytheme("flatly"),
+shinyUI(fluidPage(
+  theme = shinytheme("flatly"),
+  titlePanel("Sexual Health Clinics in Vancouver"),
 
-  # Application title
-  headerPanel("Sexual Health Clinics in Vancouver"),
-
-  # Sidebar with a slider input for number of bins
     sidebarPanel(
       checkboxGroupInput("provider", 
                          "Clinic provider:",
-                         choices = list("BC-CDC"=1, "Opt Sexual Health"=2),
+                         choices = list("BC-CDC"=1, 
+                                        "Opt Sexual Health"=2),
                          selected = unique(clinics$provider)),
       sliderInput("year",
                   "Year of visit:",

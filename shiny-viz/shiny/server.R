@@ -57,14 +57,13 @@ shinyServer(function(input, output) {
   
   
   clinicTable <- reactive({
-    clinics_table <- clinics_filtered() %>% 
+    clinics_filtered() %>% 
       group_by(clinic_name) %>% 
       summarise(
         n_patients = n(),
         avg_age = round(quantile(age, 0.3),0.1),
         msp_required = mean(msp_required)
       )
-    clinics_table
   })
   
   
