@@ -1,5 +1,0 @@
-"0","ggplot(patient_side_data, aes(x=year, fill=user_feedback_tags1)) +"
-"0","  geom_bar() +"
-"0","  ggtitle(""Feedback 'clean vs messy' by year"" ) +"
-"0","  facet_wrap(~clinic_name) +"
-"0","  theme(axis.text.x = element_text(angle = 45, hjust = 1))"
