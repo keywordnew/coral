@@ -5,8 +5,8 @@ account: topspinj
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 292852
-bundleId: 1255443
+bundleId: 1255465
 url: https://topspinj.shinyapps.io/bc_clinics/
-when: 1520358007.85224
+when: 1520358545.31713
 asMultiple: FALSE
 asStatic: FALSE

@@ -28,6 +28,9 @@ We're looking for government funding data for clinics, types of patients going t
 ### Live Prototype
 [app](https://coral-rspqywhxtx.now.sh)
 
+[data visualization](https://topspinj.shinyapps.io/bc_clinics/)
+
+
 ### Presentation
 [pitch deck](https://docs.google.com/presentation/d/1jDjC8Jm7n2CMxnUEO4l_8P6AkrphKEmIyTfpenRg71g/edit?usp=sharing)
 
