@@ -1,8 +1,0 @@
-"0","clinic_name <- c(""Kootenay Loop Opt Clinic"", ""South Hill Opt Clinic"", ""Vancouver Opt Clinic"", ""ADAP (AIDS and Disability Action Program)"", ""AIDS Vancouver"", ""Alina Wydra"", ""Aquarius Medical Clinic"", ""Bayswater Medical Clinic"", ""Bloom Community Midwives"")"
-"0","lat <- c(""49.280976"", ""49.25246"", ""49.243346"", ""49.262909"", ""49.277212"", ""49.263736"", ""49.273822"", ""49.264481"", ""49.279902"")"
-"0","long <- c(""-123.026984"", ""-123.080263"", ""-123.124504"", ""-123.114115"", ""-123.1239"", ""-123.118004"", ""-123.120589"", ""-123.171416"", ""-123.129868"")"
-"0","provider <- c(""Opt"", ""Opt"", ""Opt"", ""BCCDC"", ""BCCDC"", ""BCCDC"", ""BCCDC"", ""BCCDC"", ""BCCDC"")"
-"0","funding <- round(runif(9, 1,3),3)"
-"0","#services_included"
-"0","clinics <- data.frame(clinic_name, lat, long, provider, funding)"
-"0","write.csv(clinics, ""clinics.csv"")"

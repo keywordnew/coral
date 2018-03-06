@@ -28,33 +28,18 @@ provider <- c("Opt", "Opt", "Opt", "BCCDC", "BCCDC", "BCCDC", "BCCDC", "BCCDC", 
 funding <- round(runif(9, 1,3),3)
 #services_included
 clinics <- data.frame(clinic_name, lat, long, provider, funding)
-clinic
+clinics
 #write.csv(clinics, "clinics.csv")
 ```
 
 
 # user
 ```{r}
-clinic_id <- 
-date <- 
-age <- 
 
-female <- rep('f', 10)
-male <- rep('m', 10)
-unspecified <- rep('x', 10)
+patient_side_data <- read_csv("shiny/patient_clinic_join.csv")
 
-gender <- c(female, male, unspecified)
+patient_side_data$X1 <- NULL
+patient_side_data$X1_1 <- NULL
 
-
-
-sexual_orientaton
-
-service_type
-user_feedback
-- clean
-- patient
-- uncomfortable
-- nonjudgemental
-- longwaittimes
-
+write_csv(patient_side_data, "shiny/patient_clinic_join.csv")
 ```
