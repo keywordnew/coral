@@ -45,7 +45,7 @@ shinyUI(fluidPage(
       uiOutput("variablesUi"),
       plotOutput("ggplot"),
       hr(),
-      leafletOutput("map"),
+      leaflet::leafletOutput("map"),
       tableOutput("dataTable")
     )
 ))

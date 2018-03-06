@@ -1,0 +1,13 @@
+name: bc_clinics
+title: bc_clinics
+username:
+account: topspinj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 292852
+bundleId: 1252640
+url: https://topspinj.shinyapps.io/bc_clinics/
+when: 1520228752.27043
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: global.R
