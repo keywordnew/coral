@@ -23,7 +23,7 @@ shinyServer(function(input, output) {
   output$variablesUi <- renderUI({
     selectizeInput("variablesSelect", "Feedback tags:",
                    c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"),
-                   selected =  c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"), 
+                   selected =  c("clean", "nonjudgemental"), 
                    multiple = TRUE,
                    options = list(placeholder = "Select feedback tags to show"))
   })
