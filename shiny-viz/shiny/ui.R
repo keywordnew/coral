@@ -1,10 +1,11 @@
 library(shinycssloaders)
 library(shinythemes)
 
-shinyUI(fluidPage(
-  theme = shinytheme("flatly"),
-  titlePanel("Sexual Health Clinics in Vancouver"),
-
+shinyUI(navbarPage( theme = shinytheme("flatly"),
+  title = "Sexual Health Clinics in Vancouver",
+  tags$head(tags$style(HTML(
+    "li.active { display: none; }"
+  ))),
     sidebarPanel(
       checkboxGroupInput("provider", 
                          "Clinic provider:",
@@ -24,7 +25,9 @@ shinyUI(fluidPage(
                   value = range(clinics$age)),
       checkboxGroupInput("gender", 
                          "Gender:", 
-                         choices = unique(clinics$gender),
+                         choices = list("Male" = "male", 
+                                        "Female" = "female",
+                                        "Unspecified" = "unspecified"),
                          selected = unique(clinics$gender)),
       checkboxGroupInput("sexualOrientation", 
                          "Sexual Orientation:", 
