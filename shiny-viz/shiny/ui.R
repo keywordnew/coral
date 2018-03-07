@@ -38,7 +38,12 @@ shinyUI(navbarPage( theme = shinytheme("flatly"),
                          selected = list(1,2,3,4)),
       checkboxGroupInput("serviceType", 
                          "Service type", 
-                         choices = unique(clinics$service_type),
+                         choices = list("STI testing" = "sti_testing",
+                                        "Emergency contraceptive" = "emergency contraceptive",
+                                        "Birth control services" = "birth control services", 
+                                        "Abortion" = "abortion",
+                                        "Pregnancy testing" = "pregnancy_testing",
+                                        "Counselling" = "counselling"),
                          selected = unique(clinics$service_type))
     ),
   
