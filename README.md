@@ -80,10 +80,10 @@ Some of this data may be specially requested from DataBC.
 <img src="https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-info-card.png" width="375" />
 
 ## live prototypes 🚜
-[app](https://coral-rspqywhxtx.now.sh)
-[data visualization](https://topspinj.shinyapps.io/bc_clinics/)
+* [app](https://coral-rspqywhxtx.now.sh)
+* [data visualization](https://topspinj.shinyapps.io/bc_clinics/)
 
-_These may not be functional when you access it. Feel free to look through the Github Issues and help us make this happen_
+_Feel free to look through the Github Issues and help us make this happen_
 
 ## pitch deck ⏱
 [click to view the pitch deck on Google Slides](https://docs.google.com/presentation/d/1jDjC8Jm7n2CMxnUEO4l_8P6AkrphKEmIyTfpenRg71g/edit?usp=sharing)
