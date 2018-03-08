@@ -51,33 +51,33 @@ Some of this data may be specially requested from DataBC.
 ### landing page view:
 * no fuss: straightforward interface to locate services
 
-![landing page view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/landing-page.png)
+<img src="https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/landing-page.png" width="375" />
 
 ----
 
 ### service filter view:
 * while we wanted to take patients to results asap, without a preliminary filter, the results would include clinics which may not provide the patient with the services needed. We consider that to be a sub-par user experience.
 
-![service filter view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/service-filter.png)
+<img src="https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/service-filter.png" width="375" />
 
 ----
 
 ### results card view:
 * this included only pertinent info. Once the patient knows the clinic is open, is located nearby, and has the feedback they're looking for, they can dig into full details by clicking into the summary card and info views.
 
-![results card view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/results-card.png)
+<img src="https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/results-card.png" width="375" />
 
 ----
 
 ### clinic summary card view:
 
-![clinic summary card view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-summary-card.png)
+<img src="https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-summary-card.png" width="375" />
 
 ----
 
 ### clinic info card view:
 
-![clinic info card view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-info-card.png)
+<img src="https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-info-card.png" width="375" />
 
 ## live prototypes 🚜
 [app](https://coral-rspqywhxtx.now.sh)
