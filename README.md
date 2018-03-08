@@ -1,42 +1,97 @@
-# Coral
+# coral
+Coral is a prototype sexual health service finder and open data provider. It was originally conceptualized and prototyped by [Team Oceanview](#team-) while competing at the [Vancouver Open Data Day Challenge](https://www.opendatabc.ca/) 2018.
 
-## Team Name
-Team Oceanview
+## table of contents
+1. [team](#team-)
+2. [case](#case)
+3. [open data sets](#open-data-sets)
+9. [mockups](#mockups-)
+9. [live prototypes](#live-prototypes-)
+9. [pitch deck](#pitch-deck-)
+9. [next steps](#next-steps-)
 
-## Vancouver Open Data Day Challenge
-Wildcard
+## team 💛
+[Estelle](https://twitter.com/esteleedesign) <>
+[Jill](https://github.com/topspinj) <>
+Lindsey <>
+[Manil](https://twitter.com/keywordnew) <>
+[Peter](https://github.com/peter0083) <>
+[Qingxin](https://github.com/qingxin-yuan)
 
-## Prototype Problem Statement
+![this team kicks ass](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/assets/team-morning.jpg)
+
+## case
+
+### prototype Problem Statement
 Finding clinics providing services for sexual health is confusing, and data about patient experience using those services is lacking.
 
-## Protoype Summary
-Our angle is to rebuild the experience of patients looking for services. Patients using those services share their feedback about their experience back through the tool.
+### protoype summary
+Our solution is to rebuild the experience of patients looking for the best services. Then, patients using those services share anonymised feedback about their experience back through the tool.
 
-## Open Data Sets
+### user stories
+[View patient cases and user stories in Google Docs](https://docs.google.com/document/d/1GiYSv2s4QLZwA2YBogoyRy2jZTfoPtF1XsZ5aaM_pyo/edit?usp=sharing)
 
-### What Open Data Sets Did You Use?
- - Options for Sexual Health
- - BC CDC
- - B.C. Auditor general of British Columbia
- - GPS coordinates from Google Maps
+## open data sets
 
-### What Open Data Sets Do You Still Need?
-We're looking for government funding data for clinics, types of patients going to clinics, and their annual patient volume. We talked to DataBC reps. The data is not openly available, but can be requested.
+### We used open data sets made available by:
+- [Options for Sexual Health](https://www.optionsforsexualhealth.org/)
+- [BC CDC](http://www.bccdc.ca/)
+- [Auditor General of British Columbia](http://www.bcauditor.com/)
+- GPS coordinates from Google Maps
 
-## Prototype
+### To make the service available, we're looking for access to the following data:
+- government funding data for clinics
+- types of patients going to clinics
+- the annual patient volume for clinics
 
-### Live Prototype
+Some of this data may be specially requested from DataBC.
+
+## mockups 🛠
+
+### landing page view:
+* no fuss: straightforward interface to locate services
+
+![landing page view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/landing-page.jpg)
+
+----
+
+### service filter view:
+* while we wanted to take patients to results asap, without a preliminary filter, the results would include clinics which may not provide the patient with the services needed. We consider that to be a sub-par user experience.
+
+![service filter view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/service-filter.jpg)
+
+----
+
+### results card view:
+* this included only pertinent info. Once the patient knows the clinic is open, is located nearby, and has the feedback they're looking for, they can dig into full details by clicking into the summary card and info views.
+
+![results card view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/results-card.jpg)
+
+----
+
+### clinic summary card view:
+
+![clinic summary card view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/clinic-summary-card.jpg)
+
+----
+
+### clinic info card view:
+
+![clinic info card view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/clinic-info-card.jpg)
+
+## live prototypes 🚜
 [app](https://coral-rspqywhxtx.now.sh)
-
 [data visualization](https://topspinj.shinyapps.io/bc_clinics/)
 
+_These may not be functional when you access it. Feel free to look through the Github Issues and help us make this happen_
 
-### Presentation
-[pitch deck](https://docs.google.com/presentation/d/1jDjC8Jm7n2CMxnUEO4l_8P6AkrphKEmIyTfpenRg71g/edit?usp=sharing)
+## pitch deck ⏱
+[click to view the pitch deck on Google Slides](https://docs.google.com/presentation/d/1jDjC8Jm7n2CMxnUEO4l_8P6AkrphKEmIyTfpenRg71g/edit?usp=sharing)
 
-## Next Steps
-* Get the app working: With more time, we can debug the problems with the database.
-* Get the missing data, as detailed earlier.
+## next steps 🚀
+* get the missing data, as detailed earlier.
+* continue building out the finder service, the feedback service, and the data visualizer.
 
-## Progress
-Stay tuned 🚀
+![this team moves mountains](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/assets/team-night.jpg)
+
+Extraordinary thanks to [Luke](https://twitter.com/lukec/status/970198281769779201) for encouragement throughout the day (and beyond?)!
