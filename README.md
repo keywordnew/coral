@@ -51,33 +51,33 @@ Some of this data may be specially requested from DataBC.
 ### landing page view:
 * no fuss: straightforward interface to locate services
 
-![landing page view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/landing-page.jpg)
+![landing page view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/landing-page.png)
 
 ----
 
 ### service filter view:
 * while we wanted to take patients to results asap, without a preliminary filter, the results would include clinics which may not provide the patient with the services needed. We consider that to be a sub-par user experience.
 
-![service filter view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/service-filter.jpg)
+![service filter view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/service-filter.png)
 
 ----
 
 ### results card view:
 * this included only pertinent info. Once the patient knows the clinic is open, is located nearby, and has the feedback they're looking for, they can dig into full details by clicking into the summary card and info views.
 
-![results card view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/results-card.jpg)
+![results card view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/results-card.png)
 
 ----
 
 ### clinic summary card view:
 
-![clinic summary card view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/clinic-summary-card.jpg)
+![clinic summary card view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-summary-card.png)
 
 ----
 
 ### clinic info card view:
 
-![clinic info card view](https://raw.githubusercontent.com/chowdhurian/team-oceanview/master/mockups/clinic-info-card.jpg)
+![clinic info card view](https://raw.githubusercontent.com/chowdhurian/coral/master/mockups/clinic-info-card.png)
 
 ## live prototypes 🚜
 [app](https://coral-rspqywhxtx.now.sh)
