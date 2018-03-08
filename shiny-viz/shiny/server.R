@@ -1,12 +1,17 @@
 library(leaflet)
 library(magrittr)
+library(ggplot2)
 
 shinyServer(function(input, output) {
 
   clinics_filtered <- reactive({
     clinics %>% 
       dplyr::filter(provider %in% input$provider) %>% 
-      dplyr::filter(year %in% input$year)
+      dplyr::filter(year >= input$year[1] & year <= input$year[2]) %>% 
+      dplyr::filter(age >= input$age[1] & age <= input$age[2]) %>% 
+      dplyr::filter(gender %in% input$gender) %>% 
+      dplyr::filter(sexual_orientation %in% input$sexualOrientation) %>% 
+      dplyr::filter(service_type %in% input$serviceType)
   })
   
   clinics_plot <- reactive({
@@ -18,7 +23,7 @@ shinyServer(function(input, output) {
   output$variablesUi <- renderUI({
     selectizeInput("variablesSelect", "Feedback tags:",
                    c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"),
-                   selected =  c("clean", "messy", "uncomfortable", "nonjudgemental", "friendly", "safe", "fast", "longwaittimes", "professional", "empathy"), 
+                   selected =  c("clean", "nonjudgemental"), 
                    multiple = TRUE,
                    options = list(placeholder = "Select feedback tags to show"))
   })
@@ -29,8 +34,6 @@ shinyServer(function(input, output) {
       xlab("clinic name") +
       ylab("frequency") +
       theme(axis.text.x = element_text(angle = 45, hjust = 1))
-    
-    
   })
   
   

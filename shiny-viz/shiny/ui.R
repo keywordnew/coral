@@ -1,10 +1,11 @@
 library(shinycssloaders)
 library(shinythemes)
 
-shinyUI(fluidPage(
-  theme = shinytheme("flatly"),
-  titlePanel("Sexual Health Clinics in Vancouver"),
-
+shinyUI(navbarPage( theme = shinytheme("flatly"),
+  title = "Sexual Health Clinics in Vancouver",
+  tags$head(tags$style(HTML(
+    "li.active { display: none; }"
+  ))),
     sidebarPanel(
       checkboxGroupInput("provider", 
                          "Clinic provider:",
@@ -24,10 +25,10 @@ shinyUI(fluidPage(
                   value = range(clinics$age)),
       checkboxGroupInput("gender", 
                          "Gender:", 
-                         choices = list("Male" = 1, 
-                                        "Female" = 2, 
-                                        "Unspecified" = 3),
-                         selected = list(1,2,3)),
+                         choices = list("Male" = "male", 
+                                        "Female" = "female",
+                                        "Unspecified" = "unspecified"),
+                         selected = unique(clinics$gender)),
       checkboxGroupInput("sexualOrientation", 
                          "Sexual Orientation:", 
                          choices = list("Heterosexual" = 1, 
@@ -35,9 +36,14 @@ shinyUI(fluidPage(
                                         "Bisexual" = 3,
                                         "Other" = 4),
                          selected = list(1,2,3,4)),
-      checkboxGroupInput("service_type", 
+      checkboxGroupInput("serviceType", 
                          "Service type", 
-                         choices = unique(clinics$service_type),
+                         choices = list("STI testing" = "sti_testing",
+                                        "Emergency contraceptive" = "emergency contraceptive",
+                                        "Birth control services" = "birth control services", 
+                                        "Abortion" = "abortion",
+                                        "Pregnancy testing" = "pregnancy_testing",
+                                        "Counselling" = "counselling"),
                          selected = unique(clinics$service_type))
     ),
   
